@@ -2,6 +2,8 @@
 
 本项目仅为示例项目，使用Cocos Creator的`v2.4.6`版本，如果需要线上使用，则需要进行修改
 
+详细说明请查看文章：https://mp.weixin.qq.com/s/VmiwVODVWYL4LX-p5iDMXA
+
 ### 使用说明
 
 - 使用Cocos Creator v2.4.6 打开项目并打包到 web 端
